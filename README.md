@@ -4,5 +4,4 @@
 - [211103](https://github.com/ZenithOfApex/ZOA-log/blob/master/211103.md)
 - [211110](https://github.com/ZenithOfApex/ZOA-log/blob/master/211110.md)
 - [211124](https://github.com/ZenithOfApex/ZOA-log/blob/master/211124.md)
-기탁이가 마무리
-
+- [211229](https://github.com/ZenithOfApex/ZOA-log/blob/master/211229.md)
