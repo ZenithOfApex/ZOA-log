@@ -8,3 +8,4 @@
 - [220105](https://github.com/ZenithOfApex/ZOA-log/blob/master/220105.md)
 - [220112](https://github.com/ZenithOfApex/ZOA-log/blob/master/220112.md)
 - [220123](https://github.com/ZenithOfApex/ZOA-log/blob/master/220123.md)
+- [220130](https://github.com/ZenithOfApex/ZOA-log/blob/master/220130.md)
