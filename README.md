@@ -12,3 +12,4 @@
 - [220206](https://github.com/ZenithOfApex/ZOA-log/blob/master/220206.md)
 - [220210](https://github.com/ZenithOfApex/ZOA-log/blob/master/220210.md)
 - [220216](https://github.com/ZenithOfApex/ZOA-log/blob/master/220216.md)
+- [220222](https://github.com/ZenithOfApex/ZOA-log/blob/master/220222.md)
