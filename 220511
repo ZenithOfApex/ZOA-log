@@ -1,0 +1,23 @@
+## 지난 과제 리뷰
+
+- [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)
+  - Problem: 크레인을 작동하여 해당 라인의 가장 상위에 있는 인형이 무조건 뽑힐 때(만약 해당 라인에 인형이 하나도 없으면 아무것도 뽑지 않는다),
+             바구니에 인형을 담을 때 같은 인형이 2개가 있을 경우 터진다. 이때 사라진 인형의 개수를 구하는 문제
+  - Solution: 인형이 뽑히는 과정이 LIFO의 특성과 같으므로 Stack 이용
+      - 주어진 조건에 맞춰 그대로 구현 
+   - Code: [기탁](https://github.com/gitak/Algorithm_Study/blob/master/Implementation/PuppetDraw.java) [성범]() [정민]() [수진]() [태환]()
+   
+- [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)
+  - Problem: 캐시 크기와 도시이름 배열이 주어졌을 때, 도시이름을 순서대로 처리했을 때 걸린 총 처리시간을 구하는 문제
+  - Solution:  캐시 교체 알고리즘 LRU(Least Recently Used)를 이해하고 구현
+    - 도시이름은 대소문자를 구분하지 않으므로 String의 toLowerCase()나 toUpperCase()함수를 이용
+   
+ - Code: [기탁](https://github.com/gitak/Algorithm_Study/blob/master/Implementation/Cache.java) [성범]() [정민]() [수진]() [태환]()
+ 
+- [합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413)  
+  - Problem: 출발지점 s에서 도착지점 A,B로 두사람이 택시를 탈때, 택시 최소요금을 구하는 문제(합승을 안하는 경우가 택시요금이 더 적다면 합승을 안해도 된다.) 
+  - Solution: 지점갯수가 최대200이므로 Floyd - Washall 알고리즘 사용 or 다익스트라 알고리즘을 사용
+    - 정확성에서는 Floyd-Warhall 알고리즘이 살짝 좋음
+    - 효율성에서는 다익스트라 알고리즘이 매우 좋음
+   
+  - Code: [기탁](https://github.com/gitak/Algorithm_Study/blob/master/Graph/TaxiFare.java) [성범]() [정민]() [수진]() [태환]()
